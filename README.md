@@ -3,15 +3,6 @@
   <img width="100%" src="Rog%20Wallpaper%20Design%20On.gif" alt="Header Animation"/>
 </div>
 
-<!-- Badges -->
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Ojasv-Issar&label=Profile%20Views&color=00FFFF&style=for-the-badge)
-  [![GitHub Stars](https://img.shields.io/github/stars/Ojasv-Issar?style=for-the-badge&label=Stars&color=FF10F0&logo=github)](https://github.com/Ojasv-Issar?tab=repositories&sort=stargazers)
-  [![GitHub Followers](https://img.shields.io/github/followers/Ojasv-Issar?style=for-the-badge&label=Followers&color=9D00FF&logo=github)](https://github.com/Ojasv-Issar?tab=followers)
-  
-</div>
-
 **Ojasv Issar**  
 🎓 Master of Data Science @ The University of British Columbia  
 💼 4+ years of Freelancing Experience  
