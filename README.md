@@ -47,4 +47,5 @@
   <sub>⚡ Crafted with passion by <strong>@Ojasv-Issar</strong></sub>
   <br><br>
 </div>
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=hackerman)](https://github.com/piyushsuthar/github-readme-quotes)
