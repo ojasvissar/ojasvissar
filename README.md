@@ -1,6 +1,6 @@
-<!-- Header GIF -->
+<!-- Footer GIF -->
 <div align="center">
-  <img width="100%" src="Rog%20Wallpaper%20Design%20On.gif" alt="Header Animation"/>
+  <img width="100%" src="Chill%20Mario%20On.gif" alt="Footer Animation"/>
 </div>
 
 **Ojasv Issar**  
@@ -36,9 +36,9 @@
 
 <div align="center">
 
-<!-- Footer GIF -->
+<!-- Header GIF -->
 <div align="center">
-  <img width="100%" src="Chill%20Mario%20On.gif" alt="Footer Animation"/>
+  <img width="100%" src="Rog%20Wallpaper%20Design%20On.gif" alt="Header Animation"/>
 </div>
 
 <div align="center">
@@ -47,5 +47,4 @@
   <sub>⚡ Crafted with passion by <strong>@Ojasv-Issar</strong></sub>
   <br><br>
 </div>
-
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=hackerman)](https://github.com/piyushsuthar/github-readme-quotes)
