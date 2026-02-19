@@ -1,6 +1,6 @@
 <!-- Header Animation -->
 <div align="center">
-  <img width="100%" src="Rog%20Wallpaper%20Design%20On.gif" alt="Header Animation"/>
+  <img width="100%" src="Chill%20Mario%20On.gif" alt="Header Animation"/>
 </div>
 
 <div align="center">
@@ -18,15 +18,19 @@
 
 <br/>
 
-<!-- About Me Cards -->
+<!-- About Me — Creative Badge-style Layout -->
 <div align="center">
 
-| 🎓 | Master of Data Science @ **University of British Columbia** |
-|:--:|:--|
-| 💼 | **4+ years** of freelancing — delivering real solutions for real clients |
-| 🌾 | Currently building **Climate-Aware Crop Yield Prediction Models** |
-| 🔬 | Passionate about solving messy, high-stakes real-world problems with data |
-| 🌐 | [Portfolio](https://ojasvissar.github.io/og/) &nbsp;·&nbsp; [Resume](https://ojasvissar.github.io/resume-website/) |
+![](https://img.shields.io/badge/🎓_Degree-Master_of_Data_Science_%40_UBC-0d1117?style=for-the-badge&labelColor=4B8BBE)
+![](https://img.shields.io/badge/💼_Experience-4%2B_Years_Freelancing-0d1117?style=for-the-badge&labelColor=2ea44f)
+
+<br/>
+
+![](https://img.shields.io/badge/🌾_Now_Building-Climate--Aware_Crop_Yield_Prediction-0d1117?style=for-the-badge&labelColor=e36d00)
+
+<br/>
+
+![](https://img.shields.io/badge/🔬_Mission-Solving_Real--World_Problems_with_Data-0d1117?style=for-the-badge&labelColor=8957e5)
 
 </div>
 
@@ -119,5 +123,5 @@
 
 <!-- Footer Animation -->
 <div align="center">
-  <img width="100%" src="Chill%20Mario%20On.gif" alt="Footer Animation"/>
+  <img width="100%" src="Rog%20Wallpaper%20Design%20On.gif" alt="Footer Animation"/>
 </div>
