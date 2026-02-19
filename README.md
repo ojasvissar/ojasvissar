@@ -3,6 +3,8 @@
   <img width="100%" src="Chill%20Mario%20On.gif" alt="Footer Animation"/>
 </div>
 
+
+
 **Ojasv Issar**  
 🎓 Master of Data Science @ The University of British Columbia  
 💼 4+ years of Freelancing Experience  
