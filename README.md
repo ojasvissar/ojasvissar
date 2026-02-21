@@ -1,6 +1,6 @@
 <!-- Header Animation -->
 <div align="center">
-  <img width="100%" src="Chill%20Mario%20On.gif" alt="Header Animation"/>
+  <img width="100%" src="ani.gif" alt="Header Animation"/>
 </div>
 
 <div align="center">
