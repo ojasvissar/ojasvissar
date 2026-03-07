@@ -12,34 +12,14 @@
 
 <br/>
 
----
-
-### 📌 A Few Things I've Built
-
-| Project | Stack | What it does |
-|---|---|---|
-| 🌡 Climate Forecasting | SVR · Docker · Quarto | 222 yrs of Berkeley Earth data → 2030 projections |
-| ☄️ Asteroid Classifier | XGBoost · SMOTENC | 958K NASA records, hazard prediction |
-| 🤖 Reddit UBC Reporter | AWS Lambda · Bedrock · Claude | Fully automated weekly digest pipeline |
-| 🗣 Arabic Sentiment Model | XLM-RoBERTa · HuggingFace | 15K+ reviews, multilingual NLP |
-
----
-
-### 📬 Connect
-
 <div align="center">
 
-  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ojasvissar4@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ojasvissar)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://ojasvissar.github.io/og/)
-  [![Resume](https://img.shields.io/badge/Resume-4CAF50?style=flat-square&logo=readthedocs&logoColor=white)](https://ojasvissar.github.io/resume-website/)
+  [![Gmail](https://img.shields.io/badge/gmail-%23000000.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:ojasvissar4@gmail.com)
+  &nbsp;
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%23000000.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ojasvissar)
+  &nbsp;
+  [![Portfolio](https://img.shields.io/badge/portfolio-%23000000.svg?style=flat-square&logo=googlechrome&logoColor=white)](https://ojasvissar.github.io/og/)
+  &nbsp;
+  [![Resume](https://img.shields.io/badge/resume-%23000000.svg?style=flat-square&logo=readthedocs&logoColor=white)](https://ojasvissar.github.io/resume-website/)
 
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ojasv-Issar&label=views&color=0e75b6&style=flat-square"/>
-  <br/><br/>
-  <sub>crafted by <strong>@Ojasv-Issar</strong></sub>
 </div>
