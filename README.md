@@ -1,8 +1,7 @@
 <!-- Header -->
 <div align="center">
-  <img width="100%" src="LaptopCamping.gif" alt="Header" style="border-radius: 16px;"/>
+  <img width="100%" src="LaptopCamping.gif" alt="Header"/>
 </div>
-
 <br/>
 
 <div align="center">
