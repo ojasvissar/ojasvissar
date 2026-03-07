@@ -6,9 +6,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=48&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=500&lines=Ojasv+Issar" alt="Ojasv Issar"/>
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=22&duration=1&pause=999999&color=AAAAAA&center=true&vCenter=true&width=500&lines=Data+Scientist+%26+ML+Engineer" alt="Data Scientist"/>
+  
+<img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English&weight=400&size=48&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=500&lines=Ojasv+Issar"/>
+<img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English&weight=400&size=22&duration=1&pause=999999&color=AAAAAA&center=true&vCenter=true&width=500&lines=Data+Scientist+%26+ML+Engineer"/>
 </div>
 
 <br/>
