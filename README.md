@@ -6,7 +6,7 @@
 <br/>
 
 <div align="center">
-  <h2>Ojasv Issar</h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=48&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=500&lines=Ojasv+Issar" alt="Ojasv Issar"/>
   <p>Data Scientist & ML Engineer</p>
 </div>
 
