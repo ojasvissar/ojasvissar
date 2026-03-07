@@ -1,6 +1,6 @@
 <!-- Header Animation -->
 <div align="center">
-  <img width="100%" src="LaptopCamping.gif" alt="Header Animation"/>
+  <img width="100%" src="LaptopCamping.gif" alt="Header Animation" style="border-radius: 20px;"/>
 </div>
 <div align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2"/>
