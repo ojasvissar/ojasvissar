@@ -24,4 +24,4 @@
 
 </div>
 
-[![Medium](https://github-readme-medium-card.vercel.app/getMediumBlogs?username=ojasvissar&theme=tokyonight)](https://medium.com/@ojasvissar)
+[![Blog Post](https://medium-card-widget.vercel.app/api/card?url=https://medium.com/@ojasvissar/ai-in-the-fight-against-climate-change-predicting-environmental-trends-before-its-too-late-0ca6fadce36f)](https://medium.com/@ojasvissar/ai-in-the-fight-against-climate-change-predicting-environmental-trends-before-its-too-late-0ca6fadce36f)
