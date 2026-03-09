@@ -24,4 +24,4 @@
 
 </div>
 
-[![Medium](https://github-readme-medium-card.vercel.app/getMediumBlogs?username=ojasvissar&theme=tokyonight)](https://medium.com/@ojasvissar4)
+[![Medium](https://github-readme-medium-card.vercel.app/getMediumBlogs?username=ojasvissar&theme=tokyonight)](https://medium.com/@ojasvissar)
