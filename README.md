@@ -23,3 +23,5 @@
   [![Resume](https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=readthedocs&logoColor=white)](https://ojasvissar.github.io/resume-website/)
 
 </div>
+
+[![Medium](https://github-readme-medium-card.vercel.app/getMediumBlogs?username=ojasvissar&theme=tokyonight)](https://medium.com/@ojasvissar4)
