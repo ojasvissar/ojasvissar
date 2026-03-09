@@ -25,7 +25,7 @@
 </div>
 
 <div align="center">
-
-[![Blog Post](https://medium-card-widget.vercel.app/api/card?url=https://medium.com/@ojasvissar/ai-in-the-fight-against-climate-change-predicting-environmental-trends-before-its-too-late-0ca6fadce36f&v=3)](https://medium.com/@ojasvissar/ai-in-the-fight-against-climate-change-predicting-environmental-trends-before-its-too-late-0ca6fadce36f)
-
+  <a href="https://medium.com/@ojasvissar/ai-in-the-fight-against-climate-change-predicting-environmental-trends-before-its-too-late-0ca6fadce36f">
+    <img src="https://medium-card-widget.vercel.app/api/card?url=https://medium.com/@ojasvissar/ai-in-the-fight-against-climate-change-predicting-environmental-trends-before-its-too-late-0ca6fadce36f&v=2" width="450"/>
+  </a>
 </div>
