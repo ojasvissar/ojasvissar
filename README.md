@@ -23,7 +23,6 @@
   [![Resume](https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=readthedocs&logoColor=white)](https://ojasvissar.github.io/resume-website/)
 
 </div>
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English&weight=400&size=22&duration=1&pause=999999&color=AAAAAA&center=true&vCenter=true&width=500&lines=read+my+latest+blog+here"/>
   <br/>
