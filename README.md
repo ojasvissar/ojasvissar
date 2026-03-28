@@ -27,6 +27,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English&weight=400&size=22&duration=1&pause=999999&color=AAAAAA&center=true&vCenter=true&width=500&lines=read+my+latest+blog+here"/>
   <br/>
+
   
   <a href="https://medium.com/@ojasvissar/ai-in-the-fight-against-climate-change-predicting-environmental-trends-before-its-too-late-0ca6fadce36f">
     <img src="https://medium-card-widget.vercel.app/api/card?url=https://medium.com/@ojasvissar/ai-in-the-fight-against-climate-change-predicting-environmental-trends-before-its-too-late-0ca6fadce36f&v=2" width="450"/>
