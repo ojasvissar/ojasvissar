@@ -6,7 +6,7 @@
 
 <div align="center">
   
-⛰︎ <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English&weight=400&size=48&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=500&lines=Ojasv+Issar"/> ⛰︎ 
+ <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English&weight=400&size=48&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=500&lines=Ojasv+Issar"/> 
 <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English&weight=400&size=22&duration=1&pause=999999&color=AAAAAA&center=true&vCenter=true&width=500&lines=Data+Science+%7C+AI+%7C+Machine+Learning"/>
 </div>
 
